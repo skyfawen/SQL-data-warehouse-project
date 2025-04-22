@@ -19,7 +19,8 @@ ETL Pipeline Developer
 Data Modeling
 Data Analytics
 
-🚀 Project Requirements
+🚀 Project Requirements:
+
 Building the Data Warehouse (Data Engineering)
 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
@@ -31,7 +32,8 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-BI: Analytics & Reporting (Data Analysis)
+BI: Analytics & Reporting (Data Analysis):
+
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
